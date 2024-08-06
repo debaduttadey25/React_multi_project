@@ -1,0 +1,114 @@
+/* 
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .main {
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 320px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  .textarea {
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    resize: none;
+    background-color: #fff;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .button-container > div {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  button {
+    background: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1.25rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  button:hover {
+    background: #f1f1f1;
+  }
+  
+  button:active {
+    transform: translateY(2px);
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:nth-child(4),
+  button:nth-child(8),
+  button:nth-child(12),
+  button:nth-child(16) {
+    background: #0b6bcb;
+    color: #fff;
+  }
+  
+  button:nth-child(4):hover,
+  button:nth-child(8):hover,
+  button:nth-child(12):hover,
+  button:nth-child(16):hover {
+    background: #4989c9;
+  }
+  
+  button:nth-child(4):active,
+  button:nth-child(8):active,
+  button:nth-child(12):active,
+  button:nth-child(16):active {
+    transform: translateY(2px);
+  }
+  
+  button:nth-child(18),
+  button:nth-child(19) {
+    background: #f44336;
+    color: #fff;
+  }
+  
+  button:nth-child(18):hover,
+  button:nth-child(19):hover {
+    background: #e53935;
+  }
+  
+  button:nth-child(18):active,
+  button:nth-child(19):active {
+    transform: translateY(2px);
+  }
+   */

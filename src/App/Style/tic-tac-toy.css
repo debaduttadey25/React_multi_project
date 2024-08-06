@@ -1,0 +1,99 @@
+/* .bts {
+    display: grid;
+    height: 100%;
+    width: 100%;
+}
+
+.row-1,
+.row-2 {
+    background-color: #ca1c1c; 
+    height: 2px;
+    width: 400px;
+    position: relative;
+    margin-top: 40%;
+}
+
+
+.row-3,
+.row-4 {
+    background-color: #cab91c; 
+    width: 2px;
+    height: 100px;
+}
+
+.row-3 {
+    grid-row: span 2;
+    justify-self: flex-start;
+    position: relative;
+    margin-top: -80%;
+    margin-left: 20%;
+
+}
+
+.row-4 {
+    grid-row: span 2;
+    justify-self: end;
+    position: relative;
+    margin-top: -110%;
+    margin-right: 20%;
+} */
+
+
+
+
+
+/* ndnvvlwlvnlwvl  knvksmll klnwelv */
+
+/* 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+.der{
+ color: cadetblue;
+}
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    gap: 10px;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.cell.x {
+    color: red;
+}
+
+.cell.o {
+    color: blue;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+} */
